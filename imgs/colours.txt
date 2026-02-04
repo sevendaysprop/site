@@ -1,0 +1,11 @@
+Original / PS
+Background: #339999
+Dark teal:  #136872
+Gold:       #f2b61b
+White:     #ffffff
+
+CANVA brand kit - stick to this pending a11y test
+Background: #1d8d98
+Dark teal:  #146872
+Gold:       #f4b617
+White:      #ffffff

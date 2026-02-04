@@ -1,0 +1,70 @@
+Tenement Retrofitting Models – from Passivhaus to EnerPhit
+6 September 2024
+
+[img: House with glowing windows seen from garden]
+
+Driven by government sustainability priorities, improving the energy efficiency of homes is a major priority in the 2020s and beyond.  
+
+Some of the most challenging properties to retrofit for improved efficiency are the Georgian and Victorian tenements common to Scottish cities, including Edinburgh and Glasgow. 
+
+Challenges include the typical construction materials, room size, building age, outdated plumbing, and listed status of these tenements. However, bold innovators and startups are creating a host of technologies to address the challenges of heating, humidity, electrical efficiency, damp-proofing and futureproofing these homes. 
+
+Here we’ll look at some of the design philosophies that underpin sustainability in both new homes and retrofitting, to help clarify what works, and what remains pie in the sky. 
+
+
+
+
+What is the Passivhaus model? 
+
+As its name might suggest, the Passivhaus standard began in 1994 as a German initiative, proposed by the Passive House Institute, an independent organization that created, in their words, “the only internationally recognised, performance-based energy standard in construction.” 
+
+As well as setting standards for new home construction, the Passivhaus approach has also been applied to retrofitting. In April 2024, the Institute ran their 26th annual conference, with a major focus on renovation. 
+
+
+
+[img: House with solar panels]
+
+The five basic principles of the Passivhaus movement include: 
+
+       Superinsulation: a strong focus on reducing heat loss through floors, walls and ceilings. 
+        Airtight construction: airflow is regulated through technology rather than opening doors or windows. 
+        High-tech doors and windows: must have high thermal performance, to reduce heat loss (or gain). 
+        Ventilation systems with heat recovery: heat is captured from outgoing air and used to warm fresh, incoming air, maintaining comfort. 
+        Elimination of thermal bridges: reducing places where heat can transfer out of the building, circumventing insulation. 
+
+While the movement is sometimes parodied for its most extreme creations (such as in the recent TV show The Curse) the aim is laudable: to reduce lost energy and boost sustainability while minimizing heating and ventilation costs. 
+
+
+
+
+The limitations of Passivhaus in Scottish tenements 
+
+The Passivhaus approach requires a high level of intervention involving everything from floors to wall insulation to windows and doors. This makes retrofitting in 18th and 19th century buildings a particular challenge. 
+
+Many such building have official listing status, which means their exteriors and some aspects of their interiors can’t easily be changed.  
+
+Traditional “sash and case” windows, for instance, can only be replaced by applying for listed building consent. The process of approvals takes six to eight weeks and application fees are required as well as the submission of detailed renovation plans. 
+
+Many Scottish tenements don’t have wall cavities suitable for insulation, and they have communal spaces and front entrances which are much harder to control, making a true Passivhaus approach all but impossible. 
+
+Furthermore, with multiple tenants to consider in a shared tenement, achieving full buy-in for the renovation work could prove challenging. Many people prefer to open their windows and achieve airflow the “old fashioned” way. 
+
+The UK Passivhaus Trust has, however, come up with a retrofitting standard, called Enerfit, which may offer a pragmatic solution. 
+
+
+
+What is Enerphit and how does it relate to Passivehaus? 
+[img: Sash and case tenement window]
+
+Tenement homes emit around 5.6 tonnes of carbon per year in lost heat, compared with 3.6 tonnes for homes built after 1982, according to a Scottish Government report. The scale of this difference (35% in terms of emissions) demonstrates how inefficient old tenements are.  
+
+This new EnerPhit standard, introduced by Passivhaus, takes into consideration the limitations of historic tenements, including orientation, structure, and glazing. 
+
+However, as Passivhaus admit, this is still an exacting retrofitting standard, since to get an EnerPhit rating, a building must achieve between 20 and 30 KWh/m2 of space heating demand, compared to the median 120 KWh/m2 for non-retrofitted tenements or 85 KWh/m2 for the average new build. 
+
+In comparison, Passivhaus new builds come in at around 15 KWh/m2. As the Passivhaus Trust’s primer explains, there are different methodologies to achieve this ambitious aim.  
+
+Newly renovated tenements may be able to enact the full EnerPhit standard. However, where tenants or owners are already living in the building, a step-by-step approach is best. 
+
+
+Check out the full set of EnerPhit criteria. 

@@ -1,0 +1,113 @@
+What is Home Automation, and how does it help with decarbonisation? 
+
+
+When we talk about automation and smart homes, we’re not talking about the kind of houses that feature in episodes of Black Mirror or Netflix horror movies. For most people, the automations that prove most helpful are simple in nature and profound in effect. 
+
+
+
+The problem with current housing stock 
+
+Many Scots live in comparatively old housing – pre-WWII homes or tenements that were built in the era of King George III or Queen Victoria. These types of housing suffer from a range of problems which effect householder budgeting, health, and wellbeing: 
+
+[img: Old fuse box]
+
+     Drafty or cold rooms and communal spaces. 
+        Poor heat efficiency, leading to higher heating bills. 
+        Humidity, damp, and mould. 
+        Subsistence, including ceiling and wall cracks. 
+        Outmoded plumbing. 
+        Inefficient boilers and radiators. 
+        Single glazed windows ill-fitting doors. 
+        Over-reliance on gas or oil-fired heating. 
+        Lack of cavity or loft insulation. 
+
+
+How bad is the problem? Here are some eye-opening statistics: 
+
+    In the 2022 Scottish House Condition Survey, 48% of homes were granted a Band D or lower EPC (energy performance certificate), equivalent to the 55th percentile or lower in terms of energy efficiency. 
+
+
+    The energy efficiency of tenement homes, which make up 7% of the Scottish housing stock, is particularly low, with over 1.6 million homes scoring an EPC Band D or lower (according to the Tenements Short Life Working Group). 
+
+
+[img: Tenement window]
+
+    In 2023, Scottish Parliamentary minutes of the Local Government, Housing and Panning Committee reported on a Scottish Shelter survey. This found that 90,000 homes in the social housing category had damp and mould problems. 
+
+    The Glass and Glazing Foundation (GGF) report “A Window of Opportunity” identified 80 million windows needing replacement to achieve current standards. It also found Scotland’s homes on average, around a third as energy efficient as their equivalents in Germany. 
+
+The situation has improved over the last few decades, with the ECO4 scheme being a notable success story, but there’s a long way to go.  
+
+
+
+What is home automation? 
+
+Home automation puts control back into the hands of tenants and homeowners. Tenement houses provide substantial challenges in terms of insulation, heating, damp-proofing, air-conditioning, and humidity control. 
+
+Home automation is a blanket term for a range of technologies that allow tenants to control their environments, and sense issues before they become crises.  
+
+Such technologies include: 
+
+[img]
+
+        Advanced boiler controls and radiator time switches. 
+        Rising damp and mould detectors (e.g., Healthy Homes range). 
+        Temperature and humidity sensors (such as Ruuvi’s products). 
+        Automated air conditioning and air purifiers. 
+        Networked and IoT (Internet of Things) devices. 
+        Alarms (smoke, carbon monoxide & intruder). 
+        Home assistants (Alexa, Siri, Google Assistant). 
+        Automated lights and power outlets. 
+        Smart security cameras and motion detectors (such as Ring). 
+        Platforms which allow remote analytics and IoT control. 
+        Cleaning devices such as iRobot’s Roomba. 
+
+
+The above list is illustrative, rather than exhaustive, since this is a boom area for home technology startups, and new types of automation are entering the market each month. 
+
+Home automation isn’t entirely about energy efficiency; much of the above products focus more on lifestyle convenience and security.  
+
+However, there are an exciting range of home automation platforms and devices that can help homeowners, even in tenement properties, reduce the carbon emissions of their homes. 
+
+
+
+How can home automation benefit homeowners and tenants alike? 
+
+The benefits of incorporated these devices into your home (or into the flats in your property if you are a landlord) are many: 
+
+
+        Detect incipient issues such as damp or mould before they can cause significant health problems. 
+        Identify areas in your home that result in heat loss and require insulation or draft-proofing. 
+        Cut electricity and gas bills by reducing your reliance on heating or air conditioning. 
+        Improve airflow and air quality to create a healthier environment. 
+        Control your home heating remotely to improve comfort levels and reduce unnecessary heating. 
+        Conserve energy by installing systems that recover lost heat (such as heat pumps) 
+        Take advantage of national and local government schemes for subsidized energy efficiency. 
+        Achieve lower carbon emissions and attract tenants who prioritize sustainability. 
+
+
+It is true that many of the smart sensors and data-rich home automation platforms appeal to the more analytic type of homeowner. However, even a simple intervention such as the installation of automated radiator valves can make a big difference. 
+
+These devices use timers to physically rotate individual radiator controls (those that are usually hand operated). This allows tenants to turn on their heating an hour or so before they return home or switch off radiators in underused spaces.  
+
+Radiator valves can be set individually or controlled using an app such as Tado, Netatmo, or Eve Thermo. Once installed, they give tenants full control over every radiator in their home, with remote access and a dashboard displaying each device and its current settings. 
+
+
+
+The future of smart homes and home automation 
+
+As we’ve seen, we’ve already been living with home automation for some time. Boiler timers, CCTV intercoms, and smoke detectors are all early examples of home automation. 
+
+[img: Tablet device with data streams]
+
+One of the biggest trends in home automation is the explosion of devices and platforms for environmental control and energy efficiency. From smart sensors, to control platforms, home assistants, and heating controls, there are more ways to control your home than ever before. 
+
+As AI and data analytics become increasingly sophisticated, these automations will only increase in potency and usefulness. Home environments will become connected ecosystems which prioritize the health of inhabitants. 
+
+Smart sensors will become more prevalent and will perhaps even become standard for new builds or high-tech retrofits. 
+
+Sustainability will become a stronger motivating factor in consumer uptake, with government support making it more affordable. At the same time, environmental priorities that align with economic ones will drive landlords towards the adoption of a more sustainable approach to shared properties. 
+
+
+
+In subsequent articles, we’ll explore the latest platforms and devices to help you optimize your energy efficiency, save money, and create a healthier, happier environment. 
