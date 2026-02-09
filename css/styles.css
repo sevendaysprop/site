@@ -492,6 +492,13 @@ footer a.noline:hover::before {
   max-height: clamp(45px, 6vw, 60px);
 }
 
+
+footer {
+  background:  radial-gradient(1200px 800px at 18% 12%, rgba(26,128,137,.30), transparent 58%),
+        radial-gradient(900px 700px at 86% 82%, rgba(244,182,23,.12), transparent 55%),
+        radial-gradient(1200px 900px at 60% 40%, rgba(175,175,158,.10), transparent 62%),
+        var(--secondary-darkest) !important;
+}
 /* -------------------------------------------------------------------------- */
 /* Buttons + icons                                                             */
 /* -------------------------------------------------------------------------- */
